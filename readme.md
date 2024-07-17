@@ -2,6 +2,6 @@
 
 subscribe to me on youtube
 
-'''JavaScript
-console.log('hello world')
+'''javaScript
+console.log('hello world');
 '''
